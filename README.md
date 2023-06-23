@@ -1,4 +1,4 @@
-# UK-Accidents-Data-Analysis
+# UK-Accidents-Data-Warehouse
 Link dataset: https://www.kaggle.com/datasets/silicon99/dft-accident-data 
 * Designed and implemented a data warehouse to integrate and consolidate UK car accident data from 2011 to 2014 with more than 2,5 milion rows data
 * Conducted ETL to load data from various sources into the data warehouse. Utilized OLAP techniques to create multi-dimensional data models and designed interactive dashboards and reports using Power BI for effective data analysis and communication
